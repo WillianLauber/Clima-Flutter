@@ -2,9 +2,6 @@
 
 # Clima ☁
 
-## What you will create
-
-<!-- ![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif) -->
 
 ## Concepts used in this project
 
